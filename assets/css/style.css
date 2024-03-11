@@ -1,0 +1,169 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f4f4 !important;
+}
+
+.bg-col {
+    background-color: #0e111e !important;
+}
+
+.red {
+    font-weight: medium;
+    color: #ee0405 !important;
+}
+
+.fnt-col {
+    font-weight: medium;
+    color: #737b86 !important;
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    padding-bottom: 4px;
+    padding-left: 17px;
+    font-size: 14px;
+    background-color: #282c3c !important;
+    border-radius: 500px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    color: white;
+}
+
+.searchs {
+    display: flex;
+    align-items: center;
+    padding-bottom: 4px;
+    padding-left: 17px;
+    font-size: 14px;
+    background-color: #282c3c !important;
+    border-radius: 500px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    color: white;
+}
+
+.s-t-c {
+    color: white !important;
+}
+
+.section-hero {
+    height: 86vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dwhite {
+    color: white !important;
+    font-size: 35px !important;
+    margin: 0 !important;
+    mix-blend-mode: difference;
+}
+
+.train {
+    margin: 0 !important;
+    color: red !important;
+    font-size: 15px !important;
+    font-weight: bold;
+}
+
+.btnick {
+    background-color: #ff0404;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 40px;
+    color: white;
+    font-size: 12px;
+}
+
+.primary-c {
+    color: #242d3c !important;
+    font-weight: bold !important;
+    margin-bottom: 0 !important;
+}
+
+.head {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.cardman {
+    background-color: white !important;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+}
+
+.mbot {
+    padding-bottom: 0 !important;
+}
+
+.pink {
+    background-color: pink !important;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bgc-gray {
+    background-color: #e1e1e1 !important;
+}
+
+.bgc-light {
+    background-color: #efefef !important;
+}
+
+.lilred {
+    color: red !important;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 0 !important;
+}
+
+.lildark {
+    color: #0e111e !important;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0 !important;
+}
+
+.btnicks {
+    background-color: #ff0404;
+    border: none;
+    border-radius: 50px;
+    padding: 5px 20px;
+    color: white;
+    font-size: 12px;
+}
+
+.asd {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.active {
+    border: 2px solid white !important;
+}
+
+.nav-item a:hover {
+    color: red !important;
+}
